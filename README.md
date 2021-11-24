@@ -23,6 +23,12 @@ The .csv file with the information is updated every minute.
 You can change the update interval by changing the value on line ```261```
 You can change the datasource by changing the URL on lines ```18``` and ```267```
 
+## How does it work in real life?
+![CMS_Fronteira_trans](https://user-images.githubusercontent.com/34355337/143290712-a632a528-c142-4c1e-a6b0-728b5427a2a0.png)
+
+Authorities in the spectactor zones, and on the roads that give access to those,  relay information to the race control, that updates the capacity in real time. 
+At any moment anyone can check the capacity of the spectator zones. 
+
 ## Credits 
 
 Developed by Jorge Gomes (Python Script), João Pina (Container and Deployment), Miguel Carreiro (Bot), and Marco Maia (SysAdmin) 
