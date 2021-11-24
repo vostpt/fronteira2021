@@ -25,6 +25,6 @@ You can change the datasource by changing the URL on lines ```18``` and ```267``
 
 ## Credits 
 
-Developed by Jorge Gomes (Python Script), João Pina (SysAdmin), Miguel Carreiro (Bot Commands), and Marco Maia (DevOps) 
+Developed by Jorge Gomes (Python Script), João Pina (Container and Deployment), Miguel Carreiro (Bot), and Marco Maia (SysAdmin) 
 
 
